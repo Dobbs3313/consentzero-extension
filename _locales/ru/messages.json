@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Отказ от cookie-баннеров",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Автоматически отклоняет cookie-баннеры на 100% локально, без телеметрии и фоновой нагрузки CPU, с журналом по сайтам.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

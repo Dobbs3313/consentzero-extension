@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Απόρριψη Μπάνερ Cookies",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Αυτόματη απόρριψη μπάνερ cookies 100% τοπικά, χωρίς τηλεμετρία, μηδενική χρήση CPU σε αδράνεια και διαφανές αρχείο.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

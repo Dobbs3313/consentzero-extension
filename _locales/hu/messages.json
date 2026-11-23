@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Sütibannerek Elutasítása",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100% helyi automatikus sütibanner-elutasító telemetria nélkül, nulla tétlen CPU-val és átlátható naplóval.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Çerez Bannerını Reddet",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Çerez bildirimlerini %100 yerel olarak reddeder; telemetri yok, boşta CPU kullanımı sıfır ve şeffaf site günlüğü.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

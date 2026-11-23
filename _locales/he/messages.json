@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — דחיית באנרי עוגיות",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "דוחה באנרי עוגיות מקומית ב-100%, ללא טלמטריה וללא עומס מעבד ברקע, עם יומן פעילות שקוף לכל אתר.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — కుకీ బ్యానర్‌లను తిరస్కరించండి",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "టెలిమెట్రీ లేకుండా, నిష్క్రియ CPU లేకుండా మరియు పారదర్శక సైట్ లాగ్‌తో 100% లోకల్ కుకీ బ్యానర్ రిజెక్టర్.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

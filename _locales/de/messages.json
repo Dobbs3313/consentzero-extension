@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Cookie-Banner Ablehnen",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Lehnt Cookie-Banner 100 % lokal ab: keine Telemetrie, keine Hintergrund-CPU-Last und transparentes Protokoll pro Website.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

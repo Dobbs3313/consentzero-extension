@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — رفض إشعارات ملفات الارتباط",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "يرفض لافتات ملفات تعريف الارتباط محليًا 100٪ بدون تتبع أو استهلاك CPU مع سجل شفاف لكل موقع.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

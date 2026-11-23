@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Rejeitar Banners de Cookie",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Rejeita avisos de cookies 100% localmente, sem telemetria, zero CPU ociosa e com registro transparente por site.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

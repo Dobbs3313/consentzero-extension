@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — 自动拒绝 Cookie 弹窗",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100% 本地自动拒绝 Cookie 同意弹窗，零遥测、零空闲 CPU 占用，并提供透明的分站操作日志。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

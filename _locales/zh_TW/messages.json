@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — 自動拒絕 Cookie 橫幅",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100% 本機自動拒絕 Cookie 同意橫幅，零遙測、零閒置 CPU 消耗，並附有透明的分站操作紀錄。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

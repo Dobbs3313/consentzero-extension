@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — કૂકી બેનર નકારો",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "શૂન્ય ટેલિમેટ્રી, શૂન્ય નિષ્ક્રિય CPU અને પારદર્શક સાઇટ ઓડिट લોગ સાથે 100% સ્થાનિક કૂકી બેનર ઓટો-રિજેક્ટર.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

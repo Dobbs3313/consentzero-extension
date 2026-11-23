@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — ಕುಕೀ ಬ್ಯಾನರ್ ತಿರಸ್ಕರಿಸಿ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ಶೂನ್ಯ ಟೆಲಿಮೆಟ್ರಿ, ಶೂನ್ಯ ನಿಷ್ಕ್ರಿಯ CPU ಮತ್ತು ಪಾರದರ್ಶಕ ಸೈಟ್ ಲಾಗ್‌ನೊಂದಿಗೆ 100% ಸ್ಥಳೀಯ ಕುಕೀ ಬ್ಯಾನರ್ ತಿರಸ್ಕಾರಕ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

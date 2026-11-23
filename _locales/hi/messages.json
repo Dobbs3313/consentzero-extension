@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — कुकी बैनर अस्वीकार करें",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "शून्य टेलीमेट्री, शून्य निष्क्रिय CPU और पारदर्शी साइट ऑडिट लॉग के साथ 100% स्थानीय कुकी बैनर ऑटो-रिजेक्टर।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

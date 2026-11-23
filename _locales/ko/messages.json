@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — 쿠키 배너 자동 거절",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "원격 측정과 유휴 CPU 사용 없이 브라우저에서 100% 로컬로 쿠키 배너를 자동 거절하며 사이트별 투명 로그를 제공합니다.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Odmítání cookie lišt",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100% lokální automatické odmítání cookie lišt bez telemetrie, s nulovou zátěží CPU v nečinnosti a přehledem podle webu.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

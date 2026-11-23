@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Từ Chối Biểu Ngữ Cookie",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Tự động từ chối cookie 100% cục bộ, không thu thập dữ liệu, không tốn CPU rỗi và có nhật ký minh bạch theo trang.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — குக்கீ பேனர் நிராகரிப்பு",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "பூஜ்ய டெலிமெட்ரி, பூஜ்ய CPU சுமை மற்றும் வெளிப்படையான தளப் பதிவுடன் 100% உள்ளூர் குக்கீ பேனர் நிராகரிப்பான்.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

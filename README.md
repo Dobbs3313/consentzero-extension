@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **I don't care about cookies** (`fihnjjcciajhdojfnbdddfaoknhalnja`, 800K+ users, 2.9★).
 
+- **Product Page:** https://arisparty.org/extensions/consentzero
+- **Privacy Policy:** https://arisparty.org/extensions/consentzero/privacy
+- **Support & Setup:** https://arisparty.org/extensions/consentzero/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces I don't care about cookies (800K users, 2.9★, owned by Gen Digital/Avast)
 - Removes Avast analytics telemetry (analytics.avcdn.net) completely — 100% local execution
@@ -41,4 +45,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/consentzero-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/consentzero-extension-v1.0.0.zip`.

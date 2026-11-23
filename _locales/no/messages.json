@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Avvis Infokapselbannere",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100 % lokal automatisk avvisning av informasjonskapsel-bannere uten telemetri, null hvile-CPU og logg per side.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Afvis Cookie-bannere",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100% lokal automatisk afvisning af cookie-bannere uden telemetri, nul inaktiv CPU og gennemsigtig log pr. side.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

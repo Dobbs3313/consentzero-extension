@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Odbij Kolačić Bannere",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100% lokalno automatsko odbijanje bannera za kolačiće bez telemetrije, bez zauzeća CPU-a i s jasnim zapisnikom.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — رد خودکار بنر کوکی",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "رد خودکار بنرهای کوکی ۱۰۰٪ محلی بدون تله‌متری، بدون مصرف CPU در حالت بیکار و گزارش شفاف هر سایت.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Kataa Mabango ya Vidakuzi",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Kikataa mabango ya vidakuzi ndani ya kivinjari 100% bila ufuatiliaji, bila CPU ya ziada na kumbukumbu wazi ya tovuti.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

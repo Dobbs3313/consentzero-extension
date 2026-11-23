@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Zavrni Pasice Piškotkov",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100-% lokalno samodejno zavračanje pasic piškotkov brez telemetrije, ničelne porabe CPE in z jasnim dnevnikom.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

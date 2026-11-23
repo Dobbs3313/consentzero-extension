@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Respinge Bannere Cookie",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Respinge automat bannerele cookie 100% local, fără telemetrie, zero CPU în repaus și jurnal transparent per site.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

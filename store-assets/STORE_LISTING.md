@@ -3,8 +3,11 @@
 - **Title:** ConsentZero — 100% Local Cookie Banner Auto-R
 - **Category:** Productivity -> Tools
 - **Version:** 1.0.0
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/consentzero-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/consentzero`
+- **Support URL:** `https://arisparty.org/extensions/consentzero/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/consentzero/privacy`
 
 ## Short Description (<= 132 chars)
 100% Local Cookie Banner Auto-Rejector with Transparent Audit Log. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -24,6 +27,11 @@
 - Per-domain policy override (Reject, Accept Essential, or Hide Only)
 - Newsletter & sticky overlay declutter mode
 - Detailed blocked-banner stats & JSON rule import/export
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/consentzero
+- Privacy policy: https://arisparty.org/extensions/consentzero/privacy
+- Support & setup: https://arisparty.org/extensions/consentzero/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/14A28r3Fd8FXfGDdH4g3604

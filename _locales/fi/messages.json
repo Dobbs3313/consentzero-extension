@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Hylkää Evästebannerit",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100 % paikallinen evästebannereiden hylkääjä ilman telemetriaa, lepotilan CPU-kuormaa ja läpinäkyvällä lokilla.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

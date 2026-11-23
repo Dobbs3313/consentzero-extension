@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Odrzucaj Banery Cookie",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "W 100% lokalne odrzucanie banerów cookie bez telemetrii, zerowe użycie CPU w spoczynku i czytelny dziennik na stronę.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

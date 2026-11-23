@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Отхвърляне на бисквитки",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100% локално отхвърляне на банери за бисквитки без телеметрия, без натоварване на процесора и с прозрачен дневник.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

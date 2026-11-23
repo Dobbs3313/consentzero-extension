@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Rebutjar Galetes",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Rebutja bàners de galetes 100% en local sense telemetria, zero CPU en repòs i registre transparent per lloc.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

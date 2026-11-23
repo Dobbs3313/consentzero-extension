@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "ConsentZero — Reject Cookie Banners",
-  "short_name": "ConsentZero",
-  "description": "100% local privacy-first cookie banner auto-rejector with zero telemetry, zero idle CPU, and a transparent per-site audit log.",
+  "name": "__MSG_appName__",
+  "short_name": "__MSG_appShortName__",
+  "description": "__MSG_appDescription__",
   "version": "1.0.0",
   "icons": {
     "16": "icons/icon16.png",
@@ -11,7 +11,7 @@
     "128": "icons/icon128.png"
   },
   "action": {
-    "default_title": "ConsentZero",
+    "default_title": "__MSG_appShortName__",
     "default_popup": "popup.html"
   },
   "background": {
@@ -24,9 +24,15 @@
   ],
   "content_scripts": [
     {
-      "matches": ["http://*/*", "https://*/*"],
-      "js": ["content.js"],
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "content.js"
+      ],
       "run_at": "document_idle"
     }
-  ]
+  ],
+  "default_locale": "en"
 }

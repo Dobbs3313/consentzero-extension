@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — কুকি ব্যানার প্রত্যাখ্যান",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "শূন্য টেলিমেট্রি, শূন্য অলস CPU এবং স্বচ্ছ সাইট অডিট লগসহ ১০০% স্থানীয়ভাবে কুকি ব্যানার স্বয়ংক্রিয় প্রত্যাখ্যানকারী।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

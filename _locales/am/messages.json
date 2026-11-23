@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — የኩኪ ባነሮችን አትቀበል",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ያለ ቴሌሜትሪ፣ ያለ ስራ ፈት CPU እና ግልጽ የጣቢያ መዝገብ 100% አካባቢያዊ የኩኪ ባነር አውቶ-ውድቅ አድራጊ።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

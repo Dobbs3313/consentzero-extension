@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Tanggihan ang Cookie Banner",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "100% lokal na awtomatikong pagtanggi sa cookie banner nang walang telemetry, walang idle CPU, at may malinaw na site log.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

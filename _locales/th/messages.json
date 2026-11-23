@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — ปฏิเสธแบนเนอร์คุกกี้",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ปฏิเสธแบนเนอร์คุกกี้อัตโนมัติบนเครื่อง 100% ไร้การติดตาม ไม่กิน CPU และมีบันทึกการทำงานโปร่งใสต่อเว็บ",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

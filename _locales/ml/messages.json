@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — കുക്കി ബാനർ നിരസിക്കുക",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ടെലിമെട്രിയോ അധിക CPU ഉപയോഗമോ ഇല്ലാതെ സുതാര്യമായ സൈറ്റ് ലോഗോടെ കുക്കി ബാനറുകൾ 100% പ്രാദേശികമായി നിരസിക്കുന്നു.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

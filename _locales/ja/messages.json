@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Cookieバナー自動拒否",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "テレメトリゼロ・待機CPU負荷ゼロでCookie同意バナーを100%ローカル自動拒否。サイト別の透明な動作履歴付き。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

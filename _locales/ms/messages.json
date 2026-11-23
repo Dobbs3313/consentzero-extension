@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Tolak Sepanduk Kuki",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Penolak sepanduk kuki automatik 100% setempat tanpa telemetri, sifar CPU terbiar dan log audit telus setiap laman.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

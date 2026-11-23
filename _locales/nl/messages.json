@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "ConsentZero — Cookiebanners Weigeren",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "ConsentZero",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Weigert cookiebanners 100% lokaal: geen telemetrie, nul inactieve CPU-belasting en een transparant logboek per website.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}
